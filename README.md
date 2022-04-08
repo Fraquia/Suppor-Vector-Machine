@@ -7,7 +7,7 @@ This project was developed by:
 
 1. Angelo Berardi (@AngeloBerardi)
 2. Emanuele Fratocchi (@Fraquia)
-3. Luca 
+3. Luca Urban 
 
 # Description 
 
