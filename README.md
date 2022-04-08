@@ -16,6 +16,10 @@ We built a  SVM classifier that distinguishes between images of handwritten digi
 We downloaded the full dataset but we extracted the target set made up of images belonging to number 3,8 and 6. We defined train and test  set by randomly splitting the original data with a percentage of 80 % and 20%. We also defined a k−fold cross validation to set
 the hyperparameters. 
 
+In this GitHub repository you can find:
+1. Two python file with a SVM class
+2. A Notebook with the whole execution
+
 # SVM Algorithm
 
 1. We wrote a program to find the solution of the SVM dual quadratic problem, identifying the values of the hyperparameters C and γ. We used specific method for Quadratic Programming problems to achieve better optimization performances.
